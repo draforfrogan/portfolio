@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Max Fransson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer, Maker, Powerlifter"
+  bio    : "Software Engineering student and hobbyist maker, "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
