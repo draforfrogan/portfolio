@@ -95,7 +95,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: double
+      layout: single
       author_profile: true
 
 category_archive:
