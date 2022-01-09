@@ -67,7 +67,7 @@ author:
       url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/fransson-max"
+      url: "https://www.linkedin.com/in/fransson-max
 
 footer:
   links:
@@ -95,7 +95,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: double
       author_profile: true
 
 category_archive:
